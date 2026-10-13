@@ -76,9 +76,9 @@ verification procedures, corrections, and research decisions.
 
 ## CLAIM-001
 
-**Claim:**  
+**Claim:** Bringing NIKE, Inc.’s mission to life starts with our people and creating a workforce that represents different backgrounds, experiences and perspectives. 
 
-**Source:** SOURCE-001
+**Source:** (https://about.nike.com/en/mission)
 
 **Evidence Location:**  
 
