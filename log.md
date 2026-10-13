@@ -37,17 +37,21 @@ verification procedures, corrections, and research decisions.
 **Purpose:**  Links
 
 **Prompt:**
-> 1.What does NIKE SAY it is doing?/What does independent evidence say?
-> 2.How are workers treated at the NIKE?
-> 3.Does NIKE donate back to the community?
-> 4.Has NIKE had any legal trouble?
+> 1. What does NIKE SAY it is doing?/What does independent evidence say?
+> 2. How are workers treated at the NIKE?
+> 3. Does NIKE donate back to the community?
+> 4. Has NIKE had any legal trouble?
 
 **Result:**
-- 1.Nike states that it promotes diversity, equity, and inclusion (DEI) through four core pillars outlined in its official Nike Diversity, Equity and Inclusion Mission:
-2.Nike’s treatment of workers varies significantly depending on whether they work in corporate/retail offices, corporate retail stores, or third-party contract manufacturing factories overseas
+- 1. Nike states that it promotes diversity, equity, and inclusion (DEI) through four core pillars outlined in its official Nike Diversity, Equity and Inclusion Mission:
+- 2. Nike’s treatment of workers varies significantly depending on whether they work in corporate/retail offices, corporate retail stores, or third-party contract manufacturing factories overseas
+- 3. Yes, Nike gives back to the community through corporate grants, product donations, employee matching programs, and footwear recycling
+- 4. Yes, Nike is facing several major legal battles and federal investigations
 **Sources Returned:**
-- 1.https://about.nike.com/en/mission/focus-areas/diversity-equity-inclusion-at-nike / https://my.csrwindo.com/company/nike/cce0a4f4-8a67-4d54-9f66-6d1866b2f775/5-diversity-equality-inclusion
-- 2.https://about.nike.com/en/resources/human-rights-and-labor-compliance-standards / https://www.propublica.org/article/nike-wages-clothing-shoe-factory-indonesia
+- 1. https://about.nike.com/en/mission/focus-areas/diversity-equity-inclusion-at-nike / https://my.csrwindo.com/company/nike/cce0a4f4-8a67-4d54-9f66-6d1866b2f775/5-diversity-equality-inclusion
+- 2. https://about.nike.com/en/resources/human-rights-and-labor-compliance-standards / https://www.propublica.org/article/nike-wages-clothing-shoe-factory-indonesia
+- 3. https://www.cnbc.com/2026/09/15/nike-phil-knight-donation-oregon-medical-center.html
+- 4. https://www.classaction.org/news/preventable-nike-data-breach-sparks-class-action-lawsuit
 
 **Action Taken:**
 - 
