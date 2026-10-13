@@ -5,10 +5,10 @@ verification procedures, corrections, and research decisions.
 
 ## Project Information
 
-- Project:
-- Author:
-- Started:
-- Last Updated:
+- Project: Project 4 Trivia Questions
+- Author: Curt
+- Started: 10/10/26
+- Last Updated: 10/13/26
 
 ---
 
@@ -23,6 +23,8 @@ verification procedures, corrections, and research decisions.
 | scite | Citation verification | | |
 | Crossref | DOI verification | | |
 | Zotero | Citation management | | |
+| AI Overview | Evidence search | | |
+
 
 ---
 
@@ -30,18 +32,22 @@ verification procedures, corrections, and research decisions.
 
 ## AI-001
 
-**Date:**  
-**Tool:**  
-**Purpose:**  
+**Date:**  10/10/26
+**Tool:**  AI Overview
+**Purpose:**  Links
 
 **Prompt:**
-> 
+> 1.What does NIKE SAY it is doing?/What does independent evidence say?
+> 2.How are workers treated at the NIKE?
+> 3.Does NIKE donate back to the community?
+> 4.Has NIKE had any legal trouble?
 
 **Result:**
-- 
-
+- 1.Nike states that it promotes diversity, equity, and inclusion (DEI) through four core pillars outlined in its official Nike Diversity, Equity and Inclusion Mission:
+2.Nike’s treatment of workers varies significantly depending on whether they work in corporate/retail offices, corporate retail stores, or third-party contract manufacturing factories overseas
 **Sources Returned:**
-- 
+- 1.https://about.nike.com/en/mission/focus-areas/diversity-equity-inclusion-at-nike / https://my.csrwindo.com/company/nike/cce0a4f4-8a67-4d54-9f66-6d1866b2f775/5-diversity-equality-inclusion
+- 2.https://about.nike.com/en/resources/human-rights-and-labor-compliance-standards / https://www.propublica.org/article/nike-wages-clothing-shoe-factory-indonesia
 
 **Action Taken:**
 - 
@@ -80,7 +86,7 @@ verification procedures, corrections, and research decisions.
 
 **Source:** (https://about.nike.com/en/mission)
 
-**Evidence Location:**  
+**Evidence Location:**  Diversity, Equity & Inclusion Section
 
 **Assessment:**  
 SUPPORTED / PARTIALLY SUPPORTED / CONTRADICTED / INSUFFICIENT EVIDENCE / UNVERIFIED
