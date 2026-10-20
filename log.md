@@ -55,10 +55,10 @@ verification procedures, corrections, and research decisions.
 
 ## SOURCE-001
 
-**Title:**  
-**Authors:**  
+**Title: Nike - Diversity, Equity and Inclusion - NIKE, Inc. **
+**Authors: NIKE **
 **Publication:**  
-**Year:**  
+**Year: © 2026 NIKE, Inc. All Rights Reserved **  
 
 **Notes:**  
 
@@ -75,10 +75,10 @@ verification procedures, corrections, and research decisions.
 **Evidence Location:**  Diversity, Equity & Inclusion Section
 
 **Assessment:**  
-SUPPORTED / PARTIALLY SUPPORTED / CONTRADICTED / INSUFFICIENT EVIDENCE / UNVERIFIED
+SUPPORTED
 
 **Confidence:**  
-High / Medium / Low
+High
 
 **Notes:**  
 
