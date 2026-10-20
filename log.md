@@ -59,7 +59,7 @@ verification procedures, corrections, and research decisions.
 
 **Authors:NIKE**
 
-**Publication:Published by Nike**  
+**Publication: Published by Nike**  
 
 **Year:© 2026 NIKE, Inc. All Rights Reserved**  
 
