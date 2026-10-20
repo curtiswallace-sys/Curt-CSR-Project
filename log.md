@@ -27,7 +27,7 @@ verification procedures, corrections, and research decisions.
 
 **Date:**  10/10/26
 **Tool:**  AI Overview
-**Purpose:**  Links
+**Purpose:**  Evidence/Links
 
 **Prompt:**
 > 1. What does NIKE SAY it is doing?/What does independent evidence say?
