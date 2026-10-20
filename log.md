@@ -59,7 +59,7 @@ verification procedures, corrections, and research decisions.
 
 **Authors:NIKE**
 
-**Publication:**  
+**Publication:Published by Nike**  
 
 **Year:© 2026 NIKE, Inc. All Rights Reserved**  
 
@@ -91,24 +91,24 @@ High
 
 ## CITATION-CHECK-001
 
-**Citation Provided By:Nike**  
+**Citation Provided By: Nike**  
 
 **Citation:"Bringing NIKE, Inc.’s mission to life starts with our people and creating a workforce that represents different backgrounds, experiences and perspectives."**   
 
 **Crossref Check:**  
-Verified / Not Found
+Verified
 
 **Publisher Check:**  
-Verified / Not Found
+Verified
 
 **scite Check:**  
-Supports / Contradicts / Mentions / Not Found
+Supports
 
 **Decision:**  
-ACCEPT / REJECT / NEEDS REVIEW
+ACCEPT
 
 **Reason:**  
-
+The statement was made by Nike itself
 ---
 
 # Corrections
