@@ -90,7 +90,7 @@ High / Medium / Low
 
 **Citation Provided By:Nike**  
 
-**Citation:**   
+**Citation:"Bringing NIKE, Inc.’s mission to life starts with our people and creating a workforce that represents different backgrounds, experiences and perspectives."**   
 
 **Crossref Check:**  
 Verified / Not Found
