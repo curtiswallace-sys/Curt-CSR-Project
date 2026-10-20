@@ -8,7 +8,7 @@ verification procedures, corrections, and research decisions.
 - Project: Project 4 Trivia Questions
 - Author: Curt
 - Started: 10/10/26
-- Last Updated: 10/13/26
+- Last Updated: 10/20/26
 
 ---
 
