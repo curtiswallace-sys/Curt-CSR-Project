@@ -23,7 +23,7 @@ verification procedures, corrections, and research decisions.
 | scite | Citation verification | | |
 | Crossref | DOI verification | | |
 | Zotero | Citation management | | |
-| AI Overview | Evidence search | | |
+| AI Overview | Evidence search |Gemini 3|10/10/26|
 
 
 ---
