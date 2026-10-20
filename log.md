@@ -56,8 +56,11 @@ verification procedures, corrections, and research decisions.
 ## SOURCE-001
 
 **Title:Nike - Diversity, Equity and Inclusion - NIKE, Inc.**
+
 **Authors:NIKE**
+
 **Publication:**  
+
 **Year:© 2026 NIKE, Inc. All Rights Reserved**  
 
 **Notes:**  
