@@ -131,7 +131,7 @@ The statement was made by Nike itself
 
 | ID | Decision | Reason |
 |---|---|---|
-| DEC-001 | | |
+| DEC-001 | "Bringing NIKE, Inc.’s mission to life starts with our people and creating a workforce that represents different backgrounds, experiences and perspectives."|This claim is verified by multiple sources mainly Nike.|
 
 ---
 
