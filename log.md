@@ -16,13 +16,6 @@ verification procedures, corrections, and research decisions.
 
 | Tool | Purpose | Model/Version | Date Used |
 |---|---|---|---|
-| ChatGPT | Research / analysis | | |
-| Perplexity | Web research | | |
-| Google Scholar | Academic search | | |
-| Consensus | Evidence search | | |
-| scite | Citation verification | | |
-| Crossref | DOI verification | | |
-| Zotero | Citation management | | |
 | AI Overview | Evidence search |Gemini 3|10/10/26|
 
 
