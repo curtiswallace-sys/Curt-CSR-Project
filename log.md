@@ -88,11 +88,9 @@ High / Medium / Low
 
 ## CITATION-CHECK-001
 
-**Citation Provided By:**  
+**Citation Provided By:Nike**  
 
-**Citation:**  
-
-**DOI:**  
+**Citation:**   
 
 **Crossref Check:**  
 Verified / Not Found
